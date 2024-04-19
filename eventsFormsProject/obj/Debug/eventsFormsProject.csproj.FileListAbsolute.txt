@@ -1,0 +1,15 @@
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\bin\Debug\eventsFormsProject.exe.config
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\bin\Debug\eventsFormsProject.exe
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\bin\Debug\eventsFormsProject.pdb
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.exe
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.pdb
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\bin\Debug\eventsDB.mdf
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\bin\Debug\eventsDB_log.ldf
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.Form2.resources
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.login.resources
+C:\Users\Dell\OneDrive\Desktop\TERM 2\info systems\eventsFormsProject\obj\Debug\eventsFormsProject.Form3.resources
